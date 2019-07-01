@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfStreet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Street>
+    <Index>010101</Index>
+    <Name>ул.Алиханова</Name>
+  </Street>
+  <Street>
+    <Index>020202</Index>
+    <Name>ул.Борисевич</Name>
+  </Street>
+  <Street>
+    <Index>030303</Index>
+    <Name>ул.Валиханова</Name>
+  </Street>
+</ArrayOfStreet>

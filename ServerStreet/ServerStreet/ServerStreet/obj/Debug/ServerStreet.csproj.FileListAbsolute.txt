@@ -1,0 +1,14 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\ServerStreet\ServerStreet\ServerStreet\bin\Debug\ServerStreet.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\ServerStreet\ServerStreet\ServerStreet\bin\Debug\ServerStreet.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\ServerStreet\ServerStreet\ServerStreet\bin\Debug\ServerStreet.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\ServerStreet\ServerStreet\ServerStreet\obj\Debug\ServerStreet.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\ServerStreet\ServerStreet\ServerStreet\obj\Debug\ServerStreet.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\ServerStreet\ServerStreet\ServerStreet\obj\Debug\ServerStreet.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Np\ServerStreet\ServerStreet\ServerStreet\obj\Debug\ServerStreet.pdb
+C:\Users\РахимовС\source\repos\ServerStreet\ServerStreet\ServerStreet\bin\Debug\ServerStreet.exe.config
+C:\Users\РахимовС\source\repos\ServerStreet\ServerStreet\ServerStreet\bin\Debug\ServerStreet.exe
+C:\Users\РахимовС\source\repos\ServerStreet\ServerStreet\ServerStreet\bin\Debug\ServerStreet.pdb
+C:\Users\РахимовС\source\repos\ServerStreet\ServerStreet\ServerStreet\obj\Debug\ServerStreet.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\ServerStreet\ServerStreet\ServerStreet\obj\Debug\ServerStreet.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\ServerStreet\ServerStreet\ServerStreet\obj\Debug\ServerStreet.exe
+C:\Users\РахимовС\source\repos\ServerStreet\ServerStreet\ServerStreet\obj\Debug\ServerStreet.pdb
